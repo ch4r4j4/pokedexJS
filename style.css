@@ -3,5 +3,14 @@ a{
 }
 
 body{
-    font-column:;
+    font-size: 25px;
 }
+
+div p{
+    color: blue;
+}
+
+div+p{
+    color: orange;
+}
+/*esta es solo una prueba de coursera eliminar todo lo que antecede*/
