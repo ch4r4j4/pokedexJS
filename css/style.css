@@ -192,6 +192,9 @@ main{
     .pokemon-todos{
         grid-template-columns: 1fr 1fr 1fr;
     }
+    header{
+        align-items: center;
+    }
 }
 /* Aquí comienzan los colores de botones según tipo */
 .normal {
