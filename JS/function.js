@@ -69,4 +69,5 @@ botonesheader.forEach(boton => boton.addEventListener("click", (event)=>{
 }))
 
 /*tenemos que agregar muchas as funcionalidades a este rpograma de ahi vamos con lo del DOM de manera intensa y de ahi ya nos vamos a la parte de react
- */
+solo vaoms a agregar las primera funcionalidades a este programa 
+*/
